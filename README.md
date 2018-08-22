@@ -27,7 +27,3 @@ Other tools and technologies used:
 1. Run `mongod` and `mongo` serices (If you get any error like connection faild, just create the folder C:\data\db)
 2. `npm run dev`: concurrently execute MongoDB, Angular build, TypeScript compiler and Express server.
 3. `npm run prod`: run the project with a production bundle and AOT compilation
-
-## Preview
-![Preview](https://raw.githubusercontent.com/typescript59/mean-stack/master/demo.gif "Preview")
-
